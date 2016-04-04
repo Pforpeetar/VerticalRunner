@@ -1,0 +1,1435 @@
+fileFormatVersion: 2
+guid: 973c7ea10337a994fb1da3e3f747268e
+timeCreated: 1459767137
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: charactermovementsheet_0
+    21300002: charactermovementsheet_1
+    21300004: charactermovementsheet_2
+    21300006: charactermovementsheet_3
+    21300008: charactermovementsheet_4
+    21300010: charactermovementsheet_5
+    21300012: charactermovementsheet_6
+    21300014: charactermovementsheet_7
+    21300016: charactermovementsheet_8
+    21300018: charactermovementsheet_9
+    21300020: charactermovementsheet_10
+    21300022: charactermovementsheet_11
+    21300024: charactermovementsheet_12
+    21300026: charactermovementsheet_13
+    21300028: charactermovementsheet_14
+    21300030: charactermovementsheet_15
+    21300032: charactermovementsheet_16
+    21300034: charactermovementsheet_17
+    21300036: charactermovementsheet_18
+    21300038: charactermovementsheet_19
+    21300040: charactermovementsheet_20
+    21300042: charactermovementsheet_21
+    21300044: charactermovementsheet_22
+    21300046: charactermovementsheet_23
+    21300048: charactermovementsheet_24
+    21300050: charactermovementsheet_25
+    21300052: charactermovementsheet_26
+    21300054: charactermovementsheet_27
+    21300056: charactermovementsheet_28
+    21300058: charactermovementsheet_29
+    21300060: charactermovementsheet_30
+    21300062: charactermovementsheet_31
+    21300064: charactermovementsheet_32
+    21300066: charactermovementsheet_33
+    21300068: charactermovementsheet_34
+    21300070: charactermovementsheet_35
+    21300072: charactermovementsheet_36
+    21300074: charactermovementsheet_37
+    21300076: charactermovementsheet_38
+    21300078: charactermovementsheet_39
+    21300080: charactermovementsheet_40
+    21300082: charactermovementsheet_41
+    21300084: charactermovementsheet_42
+    21300086: charactermovementsheet_43
+    21300088: charactermovementsheet_44
+    21300090: charactermovementsheet_45
+    21300092: charactermovementsheet_46
+    21300094: charactermovementsheet_47
+    21300096: charactermovementsheet_48
+    21300098: charactermovementsheet_49
+    21300100: charactermovementsheet_50
+    21300102: charactermovementsheet_51
+    21300104: charactermovementsheet_52
+    21300106: charactermovementsheet_53
+    21300108: charactermovementsheet_54
+    21300110: charactermovementsheet_55
+    21300112: charactermovementsheet_56
+    21300114: charactermovementsheet_57
+    21300116: charactermovementsheet_58
+    21300118: charactermovementsheet_59
+    21300120: charactermovementsheet_60
+    21300122: charactermovementsheet_61
+    21300124: charactermovementsheet_62
+    21300126: charactermovementsheet_63
+    21300128: charactermovementsheet_64
+    21300130: charactermovementsheet_65
+    21300132: charactermovementsheet_66
+    21300134: charactermovementsheet_67
+    21300136: charactermovementsheet_68
+    21300138: charactermovementsheet_69
+    21300140: charactermovementsheet_70
+    21300142: charactermovementsheet_71
+    21300144: charactermovementsheet_72
+    21300146: charactermovementsheet_73
+    21300148: charactermovementsheet_74
+    21300150: charactermovementsheet_75
+    21300152: charactermovementsheet_76
+    21300154: charactermovementsheet_77
+    21300156: charactermovementsheet_78
+    21300158: charactermovementsheet_79
+    21300160: charactermovementsheet_80
+    21300162: charactermovementsheet_81
+    21300164: charactermovementsheet_82
+    21300166: charactermovementsheet_83
+    21300168: charactermovementsheet_84
+    21300170: charactermovementsheet_85
+    21300172: charactermovementsheet_86
+    21300174: charactermovementsheet_87
+    21300176: charactermovementsheet_88
+    21300178: charactermovementsheet_89
+    21300180: charactermovementsheet_90
+    21300182: charactermovementsheet_91
+    21300184: charactermovementsheet_92
+    21300186: charactermovementsheet_93
+    21300188: charactermovementsheet_94
+    21300190: charactermovementsheet_95
+    21300192: charactermovementsheet_96
+    21300194: charactermovementsheet_97
+    21300196: charactermovementsheet_98
+    21300198: charactermovementsheet_99
+    21300200: charactermovementsheet_100
+    21300202: charactermovementsheet_101
+    21300204: charactermovementsheet_102
+    21300206: charactermovementsheet_103
+    21300208: charactermovementsheet_104
+    21300210: charactermovementsheet_105
+    21300212: charactermovementsheet_106
+    21300214: charactermovementsheet_107
+    21300216: charactermovementsheet_108
+    21300218: charactermovementsheet_109
+    21300220: charactermovementsheet_110
+    21300222: charactermovementsheet_111
+    21300224: charactermovementsheet_112
+    21300226: charactermovementsheet_113
+    21300228: charactermovementsheet_114
+    21300230: charactermovementsheet_115
+    21300232: charactermovementsheet_116
+    21300234: charactermovementsheet_117
+    21300236: charactermovementsheet_118
+    21300238: charactermovementsheet_119
+    21300240: charactermovementsheet_120
+    21300242: charactermovementsheet_121
+    21300244: charactermovementsheet_122
+    21300246: charactermovementsheet_123
+    21300248: charactermovementsheet_124
+    21300250: charactermovementsheet_125
+    21300252: charactermovementsheet_126
+    21300254: charactermovementsheet_127
+    21300256: charactermovementsheet_128
+    21300258: charactermovementsheet_129
+    21300260: charactermovementsheet_130
+    21300262: charactermovementsheet_131
+    21300264: charactermovementsheet_132
+    21300266: charactermovementsheet_133
+    21300268: charactermovementsheet_134
+    21300270: charactermovementsheet_135
+    21300272: charactermovementsheet_136
+    21300274: charactermovementsheet_137
+    21300276: charactermovementsheet_138
+    21300278: charactermovementsheet_139
+    21300280: charactermovementsheet_140
+    21300282: charactermovementsheet_141
+    21300284: charactermovementsheet_142
+    21300286: charactermovementsheet_143
+    21300288: charactermovementsheet_144
+    21300290: charactermovementsheet_145
+    21300292: charactermovementsheet_146
+    21300294: charactermovementsheet_147
+    21300296: charactermovementsheet_148
+    21300298: charactermovementsheet_149
+    21300300: charactermovementsheet_150
+    21300302: charactermovementsheet_151
+    21300304: charactermovementsheet_152
+    21300306: charactermovementsheet_153
+    21300308: charactermovementsheet_154
+    21300310: charactermovementsheet_155
+    21300312: charactermovementsheet_156
+    21300314: charactermovementsheet_157
+    21300316: charactermovementsheet_158
+    21300318: charactermovementsheet_159
+    21300320: charactermovementsheet_160
+    21300322: charactermovementsheet_161
+    21300324: charactermovementsheet_162
+    21300326: charactermovementsheet_163
+    21300328: charactermovementsheet_164
+    21300330: charactermovementsheet_165
+    21300332: charactermovementsheet_166
+    21300334: charactermovementsheet_167
+    21300336: charactermovementsheet_168
+    21300338: charactermovementsheet_169
+    21300340: charactermovementsheet_170
+    21300342: charactermovementsheet_171
+    21300344: charactermovementsheet_172
+    21300346: charactermovementsheet_173
+    21300348: charactermovementsheet_174
+    21300350: charactermovementsheet_175
+    21300352: charactermovementsheet_176
+    21300354: charactermovementsheet_177
+    21300356: charactermovementsheet_178
+    21300358: charactermovementsheet_179
+    21300360: charactermovementsheet_180
+    21300362: charactermovementsheet_181
+    21300364: charactermovementsheet_182
+    21300366: charactermovementsheet_183
+    21300368: charactermovementsheet_184
+    21300370: charactermovementsheet_185
+    21300372: charactermovementsheet_186
+    21300374: charactermovementsheet_187
+    21300376: charactermovementsheet_188
+    21300378: charactermovementsheet_189
+    21300380: charactermovementsheet_190
+    21300382: charactermovementsheet_191
+    21300384: charactermovementsheet_192
+    21300386: charactermovementsheet_193
+    21300388: charactermovementsheet_194
+    21300390: charactermovementsheet_195
+    21300392: charactermovementsheet_196
+    21300394: charactermovementsheet_197
+    21300396: charactermovementsheet_198
+    21300398: charactermovementsheet_199
+    21300400: charactermovementsheet_200
+    21300402: charactermovementsheet_201
+    21300404: charactermovementsheet_202
+    21300406: charactermovementsheet_203
+    21300408: charactermovementsheet_204
+    21300410: charactermovementsheet_205
+    21300412: charactermovementsheet_206
+    21300414: charactermovementsheet_207
+    21300416: charactermovementsheet_208
+    21300418: charactermovementsheet_209
+    21300420: charactermovementsheet_210
+    21300422: charactermovementsheet_211
+    21300424: charactermovementsheet_212
+    21300426: charactermovementsheet_213
+    21300428: charactermovementsheet_214
+    21300430: charactermovementsheet_215
+    21300432: charactermovementsheet_216
+    21300434: charactermovementsheet_217
+    21300436: charactermovementsheet_218
+    21300438: charactermovementsheet_219
+    21300440: charactermovementsheet_220
+    21300442: charactermovementsheet_221
+    21300444: charactermovementsheet_222
+    21300446: charactermovementsheet_223
+    21300448: charactermovementsheet_224
+    21300450: charactermovementsheet_225
+    21300452: charactermovementsheet_226
+    21300454: charactermovementsheet_227
+    21300456: charactermovementsheet_228
+    21300458: charactermovementsheet_229
+    21300460: charactermovementsheet_230
+    21300462: charactermovementsheet_231
+    21300464: charactermovementsheet_232
+    21300466: charactermovementsheet_233
+    21300468: charactermovementsheet_234
+    21300470: charactermovementsheet_235
+    21300472: charactermovementsheet_236
+    21300474: charactermovementsheet_237
+    21300476: charactermovementsheet_238
+    21300478: charactermovementsheet_239
+    21300480: charactermovementsheet_240
+    21300482: charactermovementsheet_241
+    21300484: charactermovementsheet_242
+    21300486: charactermovementsheet_243
+    21300488: charactermovementsheet_244
+    21300490: charactermovementsheet_245
+    21300492: charactermovementsheet_246
+    21300494: charactermovementsheet_247
+    21300496: charactermovementsheet_248
+    21300498: charactermovementsheet_249
+    21300500: charactermovementsheet_250
+    21300502: charactermovementsheet_251
+    21300504: charactermovementsheet_252
+    21300506: charactermovementsheet_253
+    21300508: charactermovementsheet_254
+    21300510: charactermovementsheet_255
+    21300512: charactermovementsheet_256
+    21300514: charactermovementsheet_257
+    21300516: charactermovementsheet_258
+    21300518: charactermovementsheet_259
+    21300520: charactermovementsheet_260
+    21300522: charactermovementsheet_261
+    21300524: charactermovementsheet_262
+    21300526: charactermovementsheet_263
+    21300528: charactermovementsheet_264
+    21300530: charactermovementsheet_265
+    21300532: charactermovementsheet_266
+    21300534: charactermovementsheet_267
+    21300536: charactermovementsheet_268
+    21300538: charactermovementsheet_269
+    21300540: charactermovementsheet_270
+    21300542: charactermovementsheet_271
+    21300544: charactermovementsheet_272
+    21300546: charactermovementsheet_273
+    21300548: charactermovementsheet_274
+    21300550: charactermovementsheet_275
+    21300552: charactermovementsheet_276
+    21300554: charactermovementsheet_277
+    21300556: charactermovementsheet_278
+    21300558: charactermovementsheet_279
+    21300560: charactermovementsheet_280
+    21300562: charactermovementsheet_281
+    21300564: charactermovementsheet_282
+    21300566: charactermovementsheet_283
+    21300568: charactermovementsheet_284
+    21300570: charactermovementsheet_285
+    21300572: charactermovementsheet_286
+    21300574: charactermovementsheet_287
+    21300576: charactermovementsheet_288
+    21300578: charactermovementsheet_289
+    21300580: charactermovementsheet_290
+    21300582: charactermovementsheet_291
+    21300584: charactermovementsheet_292
+    21300586: charactermovementsheet_293
+    21300588: charactermovementsheet_294
+    21300590: charactermovementsheet_295
+    21300592: charactermovementsheet_296
+    21300594: charactermovementsheet_297
+    21300596: charactermovementsheet_298
+    21300598: charactermovementsheet_299
+    21300600: charactermovementsheet_300
+    21300602: charactermovementsheet_301
+    21300604: charactermovementsheet_302
+    21300606: charactermovementsheet_303
+    21300608: charactermovementsheet_304
+    21300610: charactermovementsheet_305
+    21300612: charactermovementsheet_306
+    21300614: charactermovementsheet_307
+    21300616: charactermovementsheet_308
+    21300618: charactermovementsheet_309
+    21300620: charactermovementsheet_310
+    21300622: charactermovementsheet_311
+    21300624: charactermovementsheet_312
+    21300626: charactermovementsheet_313
+    21300628: charactermovementsheet_314
+    21300630: charactermovementsheet_315
+    21300632: charactermovementsheet_316
+    21300634: charactermovementsheet_317
+    21300636: charactermovementsheet_318
+    21300638: charactermovementsheet_319
+    21300640: charactermovementsheet_320
+    21300642: charactermovementsheet_321
+    21300644: charactermovementsheet_322
+    21300646: charactermovementsheet_323
+    21300648: charactermovementsheet_324
+    21300650: charactermovementsheet_325
+    21300652: charactermovementsheet_326
+    21300654: charactermovementsheet_327
+    21300656: charactermovementsheet_328
+    21300658: charactermovementsheet_329
+    21300660: charactermovementsheet_330
+    21300662: charactermovementsheet_331
+    21300664: charactermovementsheet_332
+    21300666: charactermovementsheet_333
+    21300668: charactermovementsheet_334
+    21300670: charactermovementsheet_335
+    21300672: charactermovementsheet_336
+    21300674: charactermovementsheet_337
+    21300676: charactermovementsheet_338
+    21300678: charactermovementsheet_339
+    21300680: charactermovementsheet_340
+    21300682: charactermovementsheet_341
+    21300684: charactermovementsheet_342
+    21300686: charactermovementsheet_343
+    21300688: charactermovementsheet_344
+    21300690: charactermovementsheet_345
+    21300692: charactermovementsheet_346
+    21300694: charactermovementsheet_347
+    21300696: charactermovementsheet_348
+    21300698: charactermovementsheet_349
+    21300700: charactermovementsheet_350
+    21300702: charactermovementsheet_351
+    21300704: charactermovementsheet_352
+    21300706: charactermovementsheet_353
+    21300708: charactermovementsheet_354
+    21300710: charactermovementsheet_355
+    21300712: charactermovementsheet_356
+    21300714: charactermovementsheet_357
+    21300716: charactermovementsheet_358
+    21300718: charactermovementsheet_359
+    21300720: charactermovementsheet_360
+    21300722: charactermovementsheet_361
+    21300724: charactermovementsheet_362
+    21300726: charactermovementsheet_363
+    21300728: charactermovementsheet_364
+    21300730: charactermovementsheet_365
+    21300732: charactermovementsheet_366
+    21300734: charactermovementsheet_367
+    21300736: charactermovementsheet_368
+    21300738: charactermovementsheet_369
+    21300740: charactermovementsheet_370
+    21300742: charactermovementsheet_371
+    21300744: charactermovementsheet_372
+    21300746: charactermovementsheet_373
+    21300748: charactermovementsheet_374
+    21300750: charactermovementsheet_375
+    21300752: charactermovementsheet_376
+    21300754: charactermovementsheet_377
+    21300756: charactermovementsheet_378
+    21300758: charactermovementsheet_379
+    21300760: charactermovementsheet_380
+    21300762: charactermovementsheet_381
+    21300764: charactermovementsheet_382
+    21300766: charactermovementsheet_383
+    21300768: charactermovementsheet_384
+    21300770: charactermovementsheet_385
+    21300772: charactermovementsheet_386
+    21300774: charactermovementsheet_387
+    21300776: charactermovementsheet_388
+    21300778: charactermovementsheet_389
+    21300780: charactermovementsheet_390
+    21300782: charactermovementsheet_391
+    21300784: charactermovementsheet_392
+    21300786: charactermovementsheet_393
+    21300788: charactermovementsheet_394
+    21300790: charactermovementsheet_395
+    21300792: charactermovementsheet_396
+    21300794: charactermovementsheet_397
+    21300796: charactermovementsheet_398
+    21300798: charactermovementsheet_399
+    21300800: charactermovementsheet_400
+    21300802: charactermovementsheet_401
+    21300804: charactermovementsheet_402
+    21300806: charactermovementsheet_403
+    21300808: charactermovementsheet_404
+    21300810: charactermovementsheet_405
+    21300812: charactermovementsheet_406
+    21300814: charactermovementsheet_407
+    21300816: charactermovementsheet_408
+    21300818: charactermovementsheet_409
+    21300820: charactermovementsheet_410
+    21300822: charactermovementsheet_411
+    21300824: charactermovementsheet_412
+    21300826: charactermovementsheet_413
+    21300828: charactermovementsheet_414
+    21300830: charactermovementsheet_415
+    21300832: charactermovementsheet_416
+    21300834: charactermovementsheet_417
+    21300836: charactermovementsheet_418
+    21300838: charactermovementsheet_419
+    21300840: charactermovementsheet_420
+    21300842: charactermovementsheet_421
+    21300844: charactermovementsheet_422
+    21300846: charactermovementsheet_423
+    21300848: charactermovementsheet_424
+    21300850: charactermovementsheet_425
+    21300852: charactermovementsheet_426
+    21300854: charactermovementsheet_427
+    21300856: charactermovementsheet_428
+    21300858: charactermovementsheet_429
+    21300860: charactermovementsheet_430
+    21300862: charactermovementsheet_431
+    21300864: charactermovementsheet_432
+    21300866: charactermovementsheet_433
+    21300868: charactermovementsheet_434
+    21300870: charactermovementsheet_435
+    21300872: charactermovementsheet_436
+    21300874: charactermovementsheet_437
+    21300876: charactermovementsheet_438
+    21300878: charactermovementsheet_439
+    21300880: charactermovementsheet_440
+    21300882: charactermovementsheet_441
+    21300884: charactermovementsheet_442
+    21300886: charactermovementsheet_443
+    21300888: charactermovementsheet_444
+    21300890: charactermovementsheet_445
+    21300892: charactermovementsheet_446
+    21300894: charactermovementsheet_447
+    21300896: charactermovementsheet_448
+    21300898: charactermovementsheet_449
+    21300900: charactermovementsheet_450
+    21300902: charactermovementsheet_451
+    21300904: charactermovementsheet_452
+    21300906: charactermovementsheet_453
+    21300908: charactermovementsheet_454
+    21300910: charactermovementsheet_455
+    21300912: charactermovementsheet_456
+    21300914: charactermovementsheet_457
+    21300916: charactermovementsheet_458
+    21300918: charactermovementsheet_459
+    21300920: charactermovementsheet_460
+    21300922: charactermovementsheet_461
+    21300924: charactermovementsheet_462
+    21300926: charactermovementsheet_463
+    21300928: charactermovementsheet_464
+    21300930: charactermovementsheet_465
+    21300932: charactermovementsheet_466
+    21300934: charactermovementsheet_467
+    21300936: charactermovementsheet_468
+    21300938: charactermovementsheet_469
+    21300940: charactermovementsheet_470
+    21300942: charactermovementsheet_471
+    21300944: charactermovementsheet_472
+    21300946: charactermovementsheet_473
+    21300948: charactermovementsheet_474
+    21300950: charactermovementsheet_475
+    21300952: charactermovementsheet_476
+    21300954: charactermovementsheet_477
+    21300956: charactermovementsheet_478
+    21300958: charactermovementsheet_479
+    21300960: charactermovementsheet_480
+    21300962: charactermovementsheet_481
+    21300964: charactermovementsheet_482
+    21300966: charactermovementsheet_483
+    21300968: charactermovementsheet_484
+    21300970: charactermovementsheet_485
+    21300972: charactermovementsheet_486
+    21300974: charactermovementsheet_487
+    21300976: charactermovementsheet_488
+    21300978: charactermovementsheet_489
+    21300980: charactermovementsheet_490
+    21300982: charactermovementsheet_491
+    21300984: charactermovementsheet_492
+    21300986: charactermovementsheet_493
+    21300988: charactermovementsheet_494
+    21300990: charactermovementsheet_495
+    21300992: charactermovementsheet_496
+    21300994: charactermovementsheet_497
+    21300996: charactermovementsheet_498
+    21300998: charactermovementsheet_499
+    21301000: charactermovementsheet_500
+    21301002: charactermovementsheet_501
+    21301004: charactermovementsheet_502
+    21301006: charactermovementsheet_503
+    21301008: charactermovementsheet_504
+    21301010: charactermovementsheet_505
+    21301012: charactermovementsheet_506
+    21301014: charactermovementsheet_507
+    21301016: charactermovementsheet_508
+    21301018: charactermovementsheet_509
+    21301020: charactermovementsheet_510
+    21301022: charactermovementsheet_511
+    21301024: charactermovementsheet_512
+    21301026: charactermovementsheet_513
+    21301028: charactermovementsheet_514
+    21301030: charactermovementsheet_515
+    21301032: charactermovementsheet_516
+    21301034: charactermovementsheet_517
+    21301036: charactermovementsheet_518
+    21301038: charactermovementsheet_519
+    21301040: charactermovementsheet_520
+    21301042: charactermovementsheet_521
+    21301044: charactermovementsheet_522
+    21301046: charactermovementsheet_523
+    21301048: charactermovementsheet_524
+    21301050: charactermovementsheet_525
+    21301052: charactermovementsheet_526
+    21301054: charactermovementsheet_527
+    21301056: charactermovementsheet_528
+    21301058: charactermovementsheet_529
+    21301060: charactermovementsheet_530
+    21301062: charactermovementsheet_531
+    21301064: charactermovementsheet_532
+    21301066: charactermovementsheet_533
+    21301068: charactermovementsheet_534
+    21301070: charactermovementsheet_535
+    21301072: charactermovementsheet_536
+    21301074: charactermovementsheet_537
+    21301076: charactermovementsheet_538
+    21301078: charactermovementsheet_539
+    21301080: charactermovementsheet_540
+    21301082: charactermovementsheet_541
+    21301084: charactermovementsheet_542
+    21301086: charactermovementsheet_543
+    21301088: charactermovementsheet_544
+    21301090: charactermovementsheet_545
+    21301092: charactermovementsheet_546
+    21301094: charactermovementsheet_547
+    21301096: charactermovementsheet_548
+    21301098: charactermovementsheet_549
+    21301100: charactermovementsheet_550
+    21301102: charactermovementsheet_551
+    21301104: charactermovementsheet_552
+    21301106: charactermovementsheet_553
+    21301108: charactermovementsheet_554
+    21301110: charactermovementsheet_555
+    21301112: charactermovementsheet_556
+    21301114: charactermovementsheet_557
+    21301116: charactermovementsheet_558
+    21301118: charactermovementsheet_559
+    21301120: charactermovementsheet_560
+    21301122: charactermovementsheet_561
+    21301124: charactermovementsheet_562
+    21301126: charactermovementsheet_563
+    21301128: charactermovementsheet_564
+    21301130: charactermovementsheet_565
+    21301132: charactermovementsheet_566
+    21301134: charactermovementsheet_567
+    21301136: charactermovementsheet_568
+    21301138: charactermovementsheet_569
+    21301140: charactermovementsheet_570
+    21301142: charactermovementsheet_571
+    21301144: charactermovementsheet_572
+    21301146: charactermovementsheet_573
+    21301148: charactermovementsheet_574
+    21301150: charactermovementsheet_575
+    21301152: charactermovementsheet_576
+    21301154: charactermovementsheet_577
+    21301156: charactermovementsheet_578
+    21301158: charactermovementsheet_579
+    21301160: charactermovementsheet_580
+    21301162: charactermovementsheet_581
+    21301164: charactermovementsheet_582
+    21301166: charactermovementsheet_583
+    21301168: charactermovementsheet_584
+    21301170: charactermovementsheet_585
+    21301172: charactermovementsheet_586
+    21301174: charactermovementsheet_587
+    21301176: charactermovementsheet_588
+    21301178: charactermovementsheet_589
+    21301180: charactermovementsheet_590
+    21301182: charactermovementsheet_591
+    21301184: charactermovementsheet_592
+    21301186: charactermovementsheet_593
+    21301188: charactermovementsheet_594
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: charactermovementsheet_0
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 2094
+        width: 363
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 142.7, y: -76.18005}
+        - {x: 142.7, y: -55.180054}
+        - {x: 111.7, y: -7.1800537}
+        - {x: 47.699997, y: 41.819946}
+        - {x: 51.699997, y: 146.81995}
+        - {x: 27.699997, y: 165.81995}
+        - {x: -19.300003, y: 178.81995}
+        - {x: -91.3, y: 178.81995}
+        - {x: -104.3, y: 177.81995}
+        - {x: -141.3, y: 157.81995}
+        - {x: -141.3, y: 19.819946}
+        - {x: -136.3, y: 8.819946}
+        - {x: -111.3, y: -8.180054}
+        - {x: -93.3, y: -98.18005}
+        - {x: -45.300003, y: -128.18005}
+        - {x: -83.3, y: -164.18005}
+        - {x: -87.3, y: -178.18005}
+        - {x: -37.300003, y: -178.18005}
+        - {x: 21.699997, y: -115.18005}
+        - {x: 56.699997, y: -119.18005}
+        - {x: 104.7, y: -103.18005}
+    - name: charactermovementsheet_1
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 2086
+        width: 313
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 122.67999, y: -153.92004}
+        - {x: 122.67999, y: -4.920044}
+        - {x: 57.679993, y: 51.079956}
+        - {x: 71.67999, y: 140.07996}
+        - {x: 58.679993, y: 167.07996}
+        - {x: 3.6799927, y: 185.07996}
+        - {x: -79.32001, y: 185.07996}
+        - {x: -84.32001, y: 184.07996}
+        - {x: -109.32001, y: 161.07996}
+        - {x: -122.32001, y: 123.079956}
+        - {x: -122.32001, y: 28.079956}
+        - {x: -118.32001, y: 5.079956}
+        - {x: -89.32001, y: -0.92004395}
+        - {x: -92.32001, y: -54.920044}
+        - {x: -33.320007, y: -104.920044}
+        - {x: -12.320007, y: -181.92004}
+        - {x: -4.3200073, y: -184.92004}
+        - {x: 24.679993, y: -184.92004}
+        - {x: 29.679993, y: -182.92004}
+        - {x: 27.679993, y: -161.92004}
+        - {x: 89.67999, y: -158.92004}
+    - name: charactermovementsheet_2
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 2084
+        width: 317
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 82.379944, y: -114.9801}
+        - {x: 124.379944, y: -68.9801}
+        - {x: 124.379944, y: 5.0198975}
+        - {x: 101.379944, y: 28.019897}
+        - {x: 56.379944, y: 51.019897}
+        - {x: 72.379944, y: 140.0199}
+        - {x: 53.379944, y: 162.0199}
+        - {x: 7.379944, y: 181.0199}
+        - {x: 1.3799438, y: 183.0199}
+        - {x: -87.620056, y: 183.0199}
+        - {x: -111.620056, y: 160.0199}
+        - {x: -123.620056, y: 148.0199}
+        - {x: -123.620056, y: 24.019897}
+        - {x: -114.620056, y: 9.019897}
+        - {x: -15.620056, y: -180.9801}
+        - {x: -11.620056, y: -181.9801}
+        - {x: 8.379944, y: -181.9801}
+        - {x: 18.379944, y: -176.9801}
+        - {x: 20.379944, y: -166.9801}
+        - {x: 60.379944, y: -155.9801}
+        - {x: 63.379944, y: -149.9801}
+    - name: charactermovementsheet_3
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 2084
+        width: 318
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 125.21997, y: 7.0198975}
+        - {x: 116.21997, y: 36.019897}
+        - {x: 56.21997, y: 60.019897}
+        - {x: 71.21997, y: 138.0199}
+        - {x: 60.21997, y: 184.0199}
+        - {x: 22.21997, y: 192.0199}
+        - {x: -90.78003, y: 192.0199}
+        - {x: -123.78003, y: 173.0199}
+        - {x: -123.78003, y: 33.019897}
+        - {x: -117.78003, y: 23.019897}
+        - {x: -91.78003, y: 8.019897}
+        - {x: -100.78003, y: -5.9801025}
+        - {x: -98.78003, y: -42.980103}
+        - {x: -56.78003, y: -66.9801}
+        - {x: -44.78003, y: -125.9801}
+        - {x: -49.78003, y: -136.9801}
+        - {x: -7.7800293, y: -190.9801}
+        - {x: 5.2199707, y: -190.9801}
+        - {x: 33.21997, y: -177.9801}
+        - {x: 33.21997, y: -134.9801}
+        - {x: 85.21997, y: -190.9801}
+        - {x: 97.21997, y: -190.9801}
+        - {x: 97.21997, y: -187.9801}
+        - {x: 95.21997, y: -157.9801}
+        - {x: 125.21997, y: -51.980103}
+    - name: charactermovementsheet_4
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 2053
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: charactermovementsheet_5
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1528
+        width: 374
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 147.14, y: -120.160034}
+        - {x: 139.14, y: -106.160034}
+        - {x: 89.14, y: -102.160034}
+        - {x: 110.14, y: -55.160034}
+        - {x: 104.14, y: 0.8399658}
+        - {x: 54.14, y: 43.839966}
+        - {x: 43.14, y: 140.83997}
+        - {x: 25.14, y: 168.83997}
+        - {x: -8.860001, y: 173.83997}
+        - {x: -123.86, y: 173.83997}
+        - {x: -126.86, y: 171.83997}
+        - {x: -145.86, y: 120.839966}
+        - {x: -145.86, y: 30.839966}
+        - {x: -135.86, y: 0.8399658}
+        - {x: -110.86, y: -61.160034}
+        - {x: -34.86, y: -95.160034}
+        - {x: -121.86, y: -149.16003}
+        - {x: -127.86, y: -157.16003}
+        - {x: -106.86, y: -172.16003}
+        - {x: -90.86, y: -172.16003}
+        - {x: 13.139999, y: -125.160034}
+        - {x: 77.14, y: -132.16003}
+        - {x: 145.14, y: -134.16003}
+        - {x: 147.14, y: -131.16003}
+    - name: charactermovementsheet_6
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1522
+        width: 368
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 144.45999, y: -44.340088}
+        - {x: 109.45999, y: -7.340088}
+        - {x: 54.45999, y: 61.659912}
+        - {x: 43.45999, y: 154.65991}
+        - {x: 21.459991, y: 174.65991}
+        - {x: -17.540009, y: 181.65991}
+        - {x: -102.54001, y: 181.65991}
+        - {x: -113.54001, y: 176.65991}
+        - {x: -137.54001, y: 149.65991}
+        - {x: -143.54001, y: 119.65991}
+        - {x: -143.54001, y: 91.65991}
+        - {x: -142.54001, y: 90.65991}
+        - {x: -143.54001, y: 87.65991}
+        - {x: -143.54001, y: 28.659912}
+        - {x: -124.54001, y: -8.340088}
+        - {x: -99.54001, y: -51.340088}
+        - {x: -29.540009, y: -106.34009}
+        - {x: -89.54001, y: -181.34009}
+        - {x: -39.54001, y: -181.34009}
+        - {x: 85.45999, y: -102.34009}
+        - {x: 99.45999, y: -90.34009}
+        - {x: 144.45999, y: -63.340088}
+      - - {x: -83.54001, y: -6.340088}
+        - {x: -84.54001, y: -9.340088}
+        - {x: -81.54001, y: -12.340088}
+        - {x: -79.54001, y: -12.340088}
+        - {x: -77.54001, y: -10.340088}
+        - {x: -77.54001, y: -9.340088}
+        - {x: -80.54001, y: -6.340088}
+    - name: charactermovementsheet_7
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1505
+        width: 369
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 144, y: -50.600098}
+        - {x: 111, y: -1.6000977}
+        - {x: 53, y: 48.399902}
+        - {x: 44, y: 149.3999}
+        - {x: 21, y: 172.3999}
+        - {x: -21, y: 183.3999}
+        - {x: -107, y: 183.3999}
+        - {x: -140, y: 162.3999}
+        - {x: -144, y: 145.3999}
+        - {x: -144, y: 30.399902}
+        - {x: -132, y: -3.6000977}
+        - {x: -93, y: -11.600098}
+        - {x: -109, y: -53.600098}
+        - {x: -31, y: -101.6001}
+        - {x: -86, y: -180.6001}
+        - {x: -83, y: -181.6001}
+        - {x: -47, y: -181.6001}
+        - {x: 32, y: -107.6001}
+        - {x: 85, y: -102.6001}
+        - {x: 144, y: -59.600098}
+      - - {x: -85, y: -9.600098}
+        - {x: -82, y: -12.600098}
+        - {x: -79, y: -11.600098}
+        - {x: -79, y: -7.6000977}
+        - {x: -80, y: -5.6000977}
+        - {x: -83, y: -5.6000977}
+        - {x: -85, y: -6.6000977}
+    - name: charactermovementsheet_8
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 1486
+        width: 313
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 122.859985, y: 6.079956}
+        - {x: 99.859985, y: 27.079956}
+        - {x: 78.859985, y: 152.07996}
+        - {x: 48.859985, y: 186.07996}
+        - {x: -0.14001465, y: 195.07996}
+        - {x: -85.140015, y: 195.07996}
+        - {x: -119.140015, y: 164.07996}
+        - {x: -122.140015, y: 153.07996}
+        - {x: -122.140015, y: 46.079956}
+        - {x: -109.140015, y: 12.079956}
+        - {x: -67.140015, y: -83.920044}
+        - {x: -43.140015, y: -133.92004}
+        - {x: -8.140015, y: -181.92004}
+        - {x: 3.8599854, y: -183.92004}
+        - {x: 30.859985, y: -149.92004}
+        - {x: 24.859985, y: -109.920044}
+        - {x: 84.859985, y: -182.92004}
+        - {x: 96.859985, y: -194.92004}
+        - {x: 108.859985, y: -194.92004}
+        - {x: 108.859985, y: -164.92004}
+        - {x: 75.859985, y: -113.920044}
+        - {x: 122.859985, y: -42.920044}
+    - name: charactermovementsheet_9
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 885
+        width: 247
+        height: 534
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 77.759995, y: 18.799988}
+        - {x: 97.759995, y: 32.799988}
+        - {x: 97.759995, y: 115.79999}
+        - {x: 93.759995, y: 174.79999}
+        - {x: 84.759995, y: 186.79999}
+        - {x: 34.759995, y: 208.79999}
+        - {x: -54.240005, y: 208.79999}
+        - {x: -86.240005, y: 188.79999}
+        - {x: -96.240005, y: 149.79999}
+        - {x: -96.240005, y: 49.799988}
+        - {x: -93.240005, y: 27.799988}
+        - {x: -48.240005, y: 4.799988}
+        - {x: -48.240005, y: -95.20001}
+        - {x: 14.7599945, y: -190.20001}
+        - {x: -4.2400055, y: -196.20001}
+        - {x: -9.2400055, y: -207.20001}
+        - {x: -3.2400055, y: -208.20001}
+        - {x: 31.759995, y: -208.20001}
+        - {x: 35.759995, y: -197.20001}
+        - {x: 97.759995, y: -95.20001}
+        - {x: 97.759995, y: -84.20001}
+      - - {x: 89.759995, y: -12.200012}
+        - {x: 92.759995, y: -15.200012}
+        - {x: 95.759995, y: -14.200012}
+        - {x: 95.759995, y: -12.200012}
+        - {x: 92.759995, y: -9.200012}
+        - {x: 90.759995, y: -9.200012}
+      - - {x: 93.759995, y: 13.799988}
+        - {x: 93.759995, y: 9.799988}
+        - {x: 94.759995, y: 5.799988}
+        - {x: 97.759995, y: 5.799988}
+        - {x: 97.759995, y: 14.799988}
+        - {x: 96.759995, y: 14.799988}
+    - name: charactermovementsheet_11
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 882
+        width: 255
+        height: 515
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 100.79999, y: -93.54004}
+        - {x: 100.79999, y: -74.54004}
+        - {x: 72.79999, y: 6.459961}
+        - {x: 100.79999, y: 18.45996}
+        - {x: 100.79999, y: 117.45996}
+        - {x: 89.79999, y: 184.45996}
+        - {x: 42.799988, y: 202.45996}
+        - {x: -67.20001, y: 202.45996}
+        - {x: -89.20001, y: 174.45996}
+        - {x: -99.20001, y: 138.45996}
+        - {x: -99.20001, y: 61.45996}
+        - {x: -95.20001, y: 31.45996}
+        - {x: -39.200012, y: -2.540039}
+        - {x: -65.20001, y: -89.54004}
+        - {x: -39.200012, y: -199.54004}
+        - {x: -37.200012, y: -200.54004}
+        - {x: 5.799988, y: -200.54004}
+        - {x: 12.799988, y: -199.54004}
+        - {x: -3.2000122, y: -153.54004}
+        - {x: 81.79999, y: -110.54004}
+        - {x: 95.79999, y: -103.54004}
+      - - {x: 86.79999, y: -18.54004}
+        - {x: 89.79999, y: -21.54004}
+        - {x: 92.79999, y: -20.54004}
+        - {x: 92.79999, y: -18.54004}
+        - {x: 89.79999, y: -15.540039}
+        - {x: 87.79999, y: -15.540039}
+      - - {x: 93.79999, y: 8.459961}
+        - {x: 90.79999, y: 7.459961}
+        - {x: 90.79999, y: 3.459961}
+        - {x: 91.79999, y: -0.54003906}
+        - {x: 95.79999, y: -0.54003906}
+        - {x: 97.79999, y: 1.4599609}
+        - {x: 97.79999, y: 6.459961}
+        - {x: 95.79999, y: 8.459961}
+    - name: charactermovementsheet_12
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 902
+        width: 263
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 99.81995, y: -111.94}
+        - {x: 103.81995, y: -104.94}
+        - {x: 103.81995, y: -86.94}
+        - {x: 100.81995, y: -81.94}
+        - {x: 93.81995, y: 115.06}
+        - {x: 82.81995, y: 164.06}
+        - {x: 64.81995, y: 180.06}
+        - {x: 19.819946, y: 189.06}
+        - {x: -61.180054, y: 189.06}
+        - {x: -89.18005, y: 174.06}
+        - {x: -102.18005, y: 118.06}
+        - {x: -102.18005, y: 42.059998}
+        - {x: -80.18005, y: 0.05999756}
+        - {x: -42.180054, y: 1.0599976}
+        - {x: -81.18005, y: -85.94}
+        - {x: -41.180054, y: -162.94}
+        - {x: -31.180054, y: -187.94}
+        - {x: 15.819946, y: -187.94}
+        - {x: 29.819946, y: -180.94}
+        - {x: 31.819946, y: -171.94}
+        - {x: 85.81995, y: -126.94}
+      - - {x: 83.81995, y: -32.940002}
+        - {x: 86.81995, y: -35.940002}
+        - {x: 89.81995, y: -34.940002}
+        - {x: 89.81995, y: -32.940002}
+        - {x: 86.81995, y: -29.940002}
+        - {x: 84.81995, y: -29.940002}
+      - - {x: 90.81995, y: -5.9400024}
+        - {x: 87.81995, y: -6.9400024}
+        - {x: 87.81995, y: -10.940002}
+        - {x: 88.81995, y: -14.940002}
+        - {x: 92.81995, y: -14.940002}
+        - {x: 94.81995, y: -12.940002}
+        - {x: 94.81995, y: -7.9400024}
+        - {x: 92.81995, y: -5.9400024}
+    - name: charactermovementsheet_13
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 883
+        width: 247
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 93.640015, y: -108.76001}
+        - {x: 80.640015, y: -14.76001}
+        - {x: 97.640015, y: 10.23999}
+        - {x: 97.640015, y: 173.23999}
+        - {x: 37.640015, y: 197.23999}
+        - {x: -57.359985, y: 197.23999}
+        - {x: -81.359985, y: 181.23999}
+        - {x: -96.359985, y: 152.23999}
+        - {x: -96.359985, y: 45.23999}
+        - {x: -80.359985, y: 0.23999023}
+        - {x: -42.359985, y: 12.23999}
+        - {x: -37.359985, y: 12.23999}
+        - {x: -40.359985, y: 9.23999}
+        - {x: -48.359985, y: -67.76001}
+        - {x: -49.359985, y: -115.76001}
+        - {x: -10.359985, y: -175.76001}
+        - {x: 60.640015, y: -195.76001}
+        - {x: 97.640015, y: -195.76001}
+        - {x: 97.640015, y: -189.76001}
+        - {x: 87.640015, y: -149.76001}
+      - - {x: -53.359985, y: -87.76001}
+        - {x: -56.359985, y: -87.76001}
+        - {x: -57.359985, y: -90.76001}
+        - {x: -58.359985, y: -94.76001}
+        - {x: -55.359985, y: -97.76001}
+        - {x: -52.359985, y: -97.76001}
+        - {x: -50.359985, y: -95.76001}
+        - {x: -50.359985, y: -88.76001}
+      - - {x: 92.640015, y: -27.76001}
+        - {x: 95.640015, y: -25.76001}
+        - {x: 92.640015, y: -20.76001}
+        - {x: 89.640015, y: -21.76001}
+        - {x: 89.640015, y: -24.76001}
+      - - {x: 93.640015, y: -0.76000977}
+        - {x: 93.640015, y: -2.7600098}
+        - {x: 96.640015, y: -5.76001}
+        - {x: 97.640015, y: -5.76001}
+        - {x: 97.640015, y: 2.2399902}
+        - {x: 96.640015, y: 2.2399902}
+      - - {x: -53.359985, y: 6.23999}
+        - {x: -54.359985, y: 2.2399902}
+        - {x: -52.359985, y: 0.23999023}
+        - {x: -51.359985, y: 0.23999023}
+        - {x: -48.359985, y: 3.2399902}
+        - {x: -48.359985, y: 5.23999}
+        - {x: -50.359985, y: 7.23999}
+    - name: charactermovementsheet_18
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 870
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: charactermovementsheet_19
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 865
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: charactermovementsheet_25
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 148
+        width: 354
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 139.2, y: -173.06}
+        - {x: 136.2, y: -167.06}
+        - {x: 114.2, y: -145.06}
+        - {x: 77.2, y: -180.06}
+        - {x: 106.2, y: -127.06}
+        - {x: 129.2, y: -70.06}
+        - {x: 131.2, y: 41.940002}
+        - {x: 132.2, y: 107.94}
+        - {x: 124.2, y: 123.94}
+        - {x: 139.2, y: 192.94}
+        - {x: 139.2, y: 209.94}
+        - {x: 109.2, y: 233.94}
+        - {x: 96.2, y: 234.94}
+        - {x: 15.199997, y: 234.94}
+        - {x: -12.800003, y: 178.94}
+        - {x: -46.800003, y: 186.94}
+        - {x: -62.800003, y: 173.94}
+        - {x: -67.8, y: 124.94}
+        - {x: -123.8, y: 85.94}
+        - {x: -137.8, y: 65.94}
+        - {x: -137.8, y: 3.9400024}
+        - {x: -130.8, y: -72.06}
+        - {x: -115.8, y: -93.06}
+        - {x: -82.8, y: -135.06}
+        - {x: -79.8, y: -204.06}
+        - {x: -121.8, y: -226.06}
+        - {x: -110.8, y: -234.06}
+        - {x: -95.8, y: -234.06}
+        - {x: -66.8, y: -233.06}
+        - {x: -60.800003, y: -230.06}
+        - {x: -32.800003, y: -163.06}
+        - {x: 11.199997, y: -166.06}
+        - {x: 57.199997, y: -231.06}
+        - {x: 59.199997, y: -234.06}
+        - {x: 120.2, y: -234.06}
+        - {x: 118.2, y: -225.06}
+        - {x: 131.2, y: -214.06}
+        - {x: 139.2, y: -201.06}
+      - - {x: 3.199997, y: -208.06}
+        - {x: 3.199997, y: -214.06}
+        - {x: 8.199997, y: -214.06}
+        - {x: 9.199997, y: -212.06}
+        - {x: 9.199997, y: -210.06}
+        - {x: 7.199997, y: -208.06}
+      - - {x: -10.800003, y: -172.06}
+        - {x: -11.800003, y: -174.06}
+        - {x: -11.800003, y: -176.06}
+        - {x: -9.800003, y: -178.06}
+        - {x: -6.800003, y: -178.06}
+        - {x: -5.800003, y: -177.06}
+        - {x: -5.800003, y: -172.06}
+    - name: charactermovementsheet_26
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 226
+        width: 273
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.100006, y: -203.72}
+        - {x: -33.100006, y: -203.72}
+        - {x: -32.100006, y: -199.72}
+        - {x: -34.100006, y: -197.72}
+        - {x: -37.100006, y: -198.72}
+      - - {x: -15.100006, y: -199.72}
+        - {x: -11.100006, y: -199.72}
+        - {x: -9.100006, y: -198.72}
+        - {x: -9.100006, y: -194.72}
+        - {x: -10.100006, y: -192.72}
+        - {x: -14.100006, y: -192.72}
+        - {x: -17.100006, y: -193.72}
+        - {x: -17.100006, y: -196.72}
+      - - {x: 61.899994, y: -122.72}
+        - {x: 88.899994, y: -107.72}
+        - {x: 99.899994, y: -77.72}
+        - {x: 67.899994, y: 2.2799988}
+        - {x: 84.899994, y: 22.279999}
+        - {x: 95.899994, y: 50.28}
+        - {x: 88.899994, y: 140.28}
+        - {x: 81.899994, y: 175.28}
+        - {x: 27.899994, y: 204.28}
+        - {x: -61.100006, y: 204.28}
+        - {x: -100.100006, y: 185.28}
+        - {x: -106.100006, y: 147.28}
+        - {x: -106.100006, y: 49.28}
+        - {x: -99.100006, y: 27.279999}
+        - {x: -80.100006, y: -94.72}
+        - {x: -0.1000061, y: -156.72}
+        - {x: 73.899994, y: -198.72}
+        - {x: 101.899994, y: -198.72}
+        - {x: 107.899994, y: -192.72}
+        - {x: 107.899994, y: -144.72}
+        - {x: 105.899994, y: -130.72}
+      - - {x: -39.100006, y: -194.72}
+        - {x: -36.100006, y: -197.72}
+        - {x: -33.100006, y: -196.72}
+        - {x: -33.100006, y: -192.72}
+        - {x: -34.100006, y: -190.72}
+        - {x: -37.100006, y: -190.72}
+        - {x: -39.100006, y: -191.72}
+      - - {x: 78.899994, y: -16.720001}
+        - {x: 82.899994, y: -20.720001}
+        - {x: 85.899994, y: -19.720001}
+        - {x: 85.899994, y: -17.720001}
+        - {x: 81.899994, y: -13.720001}
+        - {x: 79.899994, y: -13.720001}
+      - - {x: 83.899994, y: 1.2799988}
+        - {x: 88.899994, y: 1.2799988}
+        - {x: 90.899994, y: 2.2799988}
+        - {x: 90.899994, y: 7.279999}
+        - {x: 88.899994, y: 10.279999}
+        - {x: 86.899994, y: 10.279999}
+        - {x: 83.899994, y: 9.279999}
+    - name: charactermovementsheet_27
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 216
+        width: 259
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 94.06, y: -45.020004}
+        - {x: 102.06, y: -5.0200043}
+        - {x: 102.06, y: 169.98}
+        - {x: 50.059998, y: 203.98}
+        - {x: -52.940002, y: 203.98}
+        - {x: -84.94, y: 194.98}
+        - {x: -98.94, y: 116.979996}
+        - {x: -87.94, y: 21.979996}
+        - {x: -44.940002, y: 5.9799957}
+        - {x: -91.94, y: -46.020004}
+        - {x: -66.94, y: -112.020004}
+        - {x: -100.94, y: -186.02}
+        - {x: -100.94, y: -203.02}
+        - {x: -54.940002, y: -203.02}
+        - {x: 44.059998, y: -184.02}
+        - {x: 53.059998, y: -180.02}
+        - {x: 84.06, y: -121.020004}
+      - - {x: -3.9400024, y: -195.02}
+        - {x: -5.9400024, y: -196.02}
+        - {x: -5.9400024, y: -201.02}
+        - {x: 0.05999756, y: -201.02}
+        - {x: 1.0599976, y: -199.02}
+        - {x: 1.0599976, y: -198.02}
+        - {x: 0.05999756, y: -195.02}
+      - - {x: -28.940002, y: -197.02}
+        - {x: -25.940002, y: -200.02}
+        - {x: -22.940002, y: -199.02}
+        - {x: -22.940002, y: -195.02}
+        - {x: -23.940002, y: -193.02}
+        - {x: -26.940002, y: -193.02}
+        - {x: -28.940002, y: -194.02}
+      - - {x: -84.94, y: -182.02}
+        - {x: -81.94, y: -181.02}
+        - {x: -81.94, y: -178.02}
+        - {x: -84.94, y: -177.02}
+        - {x: -86.94, y: -179.02}
+      - - {x: 83.06, y: -165.02}
+        - {x: 83.06, y: -168.02}
+        - {x: 84.06, y: -170.02}
+        - {x: 86.06, y: -170.02}
+        - {x: 89.06, y: -167.02}
+        - {x: 88.06, y: -164.02}
+        - {x: 85.06, y: -164.02}
+      - - {x: 93.06, y: -83.020004}
+        - {x: 94.06, y: -84.020004}
+        - {x: 98.06, y: -84.020004}
+        - {x: 101.06, y: -83.020004}
+        - {x: 101.06, y: -78.020004}
+        - {x: 99.06, y: -75.020004}
+        - {x: 94.06, y: -75.020004}
+        - {x: 93.06, y: -77.020004}
+      - - {x: 94.06, y: 4.9799957}
+        - {x: 94.06, y: 1.9799957}
+        - {x: 97.06, y: -1.0200043}
+        - {x: 100.06, y: -0.020004272}
+        - {x: 101.06, y: 5.9799957}
+        - {x: 99.06, y: 7.9799957}
+        - {x: 97.06, y: 7.9799957}
+      - - {x: -53.940002, y: 6.9799957}
+        - {x: -51.940002, y: 4.9799957}
+        - {x: -48.940002, y: 5.9799957}
+        - {x: -48.940002, y: 8.979996}
+        - {x: -50.940002, y: 10.979996}
+        - {x: -53.940002, y: 9.979996}
+    - name: charactermovementsheet_29
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 210
+        width: 262
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 88.859985, y: -80.70001}
+        - {x: 88.859985, y: -58.700012}
+        - {x: 71.859985, y: 13.299988}
+        - {x: 88.859985, y: 26.299988}
+        - {x: 88.859985, y: 182.29999}
+        - {x: 33.859985, y: 211.29999}
+        - {x: -66.140015, y: 211.29999}
+        - {x: -99.140015, y: 180.29999}
+        - {x: -102.140015, y: 154.29999}
+        - {x: -102.140015, y: 64.29999}
+        - {x: -95.140015, y: 39.299988}
+        - {x: -68.140015, y: -33.700012}
+        - {x: -82.140015, y: -81.70001}
+        - {x: -27.140015, y: -184.70001}
+        - {x: -48.140015, y: -209.70001}
+        - {x: 17.859985, y: -209.70001}
+        - {x: 44.859985, y: -190.70001}
+        - {x: 39.859985, y: -113.70001}
+        - {x: 83.859985, y: -102.70001}
+      - - {x: -40.140015, y: -200.70001}
+        - {x: -37.140015, y: -199.70001}
+        - {x: -37.140015, y: -196.70001}
+        - {x: -40.140015, y: -195.70001}
+        - {x: -42.140015, y: -197.70001}
+      - - {x: -87.140015, y: -190.70001}
+        - {x: -85.140015, y: -193.70001}
+        - {x: -81.140015, y: -192.70001}
+        - {x: -79.140015, y: -190.70001}
+        - {x: -80.140015, y: -187.70001}
+        - {x: -83.140015, y: -187.70001}
+      - - {x: 68.859985, y: -158.70001}
+        - {x: 69.859985, y: -161.70001}
+        - {x: 72.859985, y: -161.70001}
+        - {x: 74.859985, y: -159.70001}
+        - {x: 73.859985, y: -156.70001}
+        - {x: 70.859985, y: -156.70001}
+      - - {x: 97.859985, y: -154.70001}
+        - {x: 97.859985, y: -159.70001}
+        - {x: 98.859985, y: -160.70001}
+        - {x: 103.859985, y: -160.70001}
+        - {x: 103.859985, y: -154.70001}
+      - - {x: -69.140015, y: -142.70001}
+        - {x: -68.140015, y: -145.70001}
+        - {x: -65.140015, y: -145.70001}
+        - {x: -63.140015, y: -143.70001}
+        - {x: -64.140015, y: -140.70001}
+        - {x: -67.140015, y: -140.70001}
+      - - {x: -55.140015, y: -107.70001}
+        - {x: -56.140015, y: -109.70001}
+        - {x: -56.140015, y: -112.70001}
+        - {x: -53.140015, y: -114.70001}
+        - {x: -49.140015, y: -114.70001}
+        - {x: -48.140015, y: -113.70001}
+        - {x: -48.140015, y: -107.70001}
+      - - {x: 79.859985, y: 12.299988}
+        - {x: 79.859985, y: 9.299988}
+        - {x: 82.859985, y: 6.299988}
+        - {x: 85.859985, y: 7.299988}
+        - {x: 86.859985, y: 13.299988}
+        - {x: 84.859985, y: 15.299988}
+        - {x: 82.859985, y: 15.299988}
+      - - {x: -66.140015, y: 13.299988}
+        - {x: -63.140015, y: 14.299988}
+        - {x: -63.140015, y: 17.299988}
+        - {x: -66.140015, y: 18.299988}
+        - {x: -68.140015, y: 16.299988}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
